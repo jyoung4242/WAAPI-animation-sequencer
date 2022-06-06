@@ -9,10 +9,10 @@
 
 `Web Animations API Sequencer` is an simple .ts library file (sequencer.ts) that provides access to methods to build a sequence of different WAAPI animations that can run the one after another, with controls over looping, and delays between animations.
 
-<!--
+
 # Demo on Youtube
- - https://youtu.be/m1zYOhrmdKk    Javascript example
- - https://youtu.be/IRboPZac_Q8    Typescript example -->
+[YouTube Demo](https://youtu.be/hY0UkRFkk0k)
+
 
 # 🔥 Features
 
