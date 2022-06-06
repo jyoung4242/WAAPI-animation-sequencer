@@ -76,6 +76,11 @@ export class waApiSequencer {
         this.currentIndex = 0;
     };
 
+    resetSeq = () => {
+        this.sequence = [];
+        this.currentIndex = 0;
+    };
+
     isElement = (obj: unknown) => {
         try {
             return obj instanceof HTMLElement;
