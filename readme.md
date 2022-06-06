@@ -1,4 +1,4 @@
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40jyoung424242)](https://twitter.com/jyoung424242)
+[![Twitter URL]<https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40jyoung424242)](https://twitter.com/jyoung424242>
 
 <h4 align="center">Typescpript Project that creates a sequencing class around the Web Animations API</h4>
 
