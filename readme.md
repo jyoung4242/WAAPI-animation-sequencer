@@ -59,9 +59,11 @@ constructor(args: SequenceOptions) {
 
 ## ✨ Utilizes WAAPI animations to control elements
 
-    [API reference](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API/)
+## Web Animations API Reference
 
--   Utilizes a SequenceObject Type to setup WAAPI animations
+[API reference](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API/)
+
+Utilizes a SequenceObject Type to setup WAAPI animations
 
 ```ts
 type SequenceObject = {
