@@ -81,11 +81,11 @@ type SequenceObject = {
 -   options property is list of animation options in key value pairs
     `options: { delay: 750, duration: 750, easing: 'ease-in-out', iterations: 1 }`
 
-## 🔍 Usage, and Methods of API
+## 🔍 Usage and Methods of API
 
 -   primary methods to be used are the addSeq() and runSeq(), for executing the animations
 -   also available are pauseSeq(), resumeSeq(), resetSeq(), and cancelSeq() for sequence control
-    addSeq() takes a SequenceObject as primary arguement
+-   addSeq() takes a SequenceObject as primary arguement
 
 -   Usage:
 
