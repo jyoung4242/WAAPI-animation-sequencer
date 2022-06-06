@@ -1,0 +1,64 @@
+/*style.css*/
+body {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: darkslategrey;
+}
+
+.container {
+    position: fixed;
+    width: 50%;
+    aspect-ratio: 16/9;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.box {
+    position: absolute;
+    width: 6vw;
+    aspect-ratio: 1/1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+.buttonDiv {
+    position: fixed;
+    width: 15%;
+    top: 40%;
+    left: 5%;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+/* CSS */
+button {
+    background-image: linear-gradient(-180deg, #37aee2 0%, #1e96c8 100%);
+    border-radius: 0.5rem;
+    box-sizing: border-box;
+    color: #ffffff;
+    display: flex;
+    font-size: 16px;
+    justify-content: center;
+    padding: 1rem 1.75rem;
+    text-decoration: none;
+    width: 80%;
+    border: 0;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-image: linear-gradient(-180deg, #1d95c9 0%, #17759c 100%);
+}
