@@ -39,11 +39,12 @@ export class waApiSequencer {
         }
     };
 
-    animationFinished = () => {
+    animationFinished = (animation: Event) => {
         //increment index
         this.currentIndex += 1;
 
         //test for last animation
+
         if (this.sequence.length == this.currentIndex) {
             //if last animation but looping
             if (this.loop) {

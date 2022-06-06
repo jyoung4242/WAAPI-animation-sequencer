@@ -12,7 +12,7 @@ let button4toggle: boolean = false;
 
 let seq1 = new waApiSequencer({
     loop: true,
-    gapDelay: 5000,
+    gapDelay: 0,
 });
 let seq2 = new waApiSequencer({
     loop: true,
