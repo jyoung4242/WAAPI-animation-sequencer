@@ -2,7 +2,7 @@
 
 <h4 align="center">Typescpript Project that creates a sequencing class around the Web Animations API</h4>
 
-![Screenshot](/sequencerscreenshot.png?raw=true 'Screenshot')
+![Screenshot](/sequencerscreenshot.PNG?raw=true 'Screenshot')
 
 # 👋 Introducing `Web Animations API Sequencer`
 
